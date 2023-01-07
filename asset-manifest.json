@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/github.io/shoe-shopping/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/github.io/shoe-shopping/static/js/main.b8fc92a0.chunk.js",
+    "main.js.map": "/github.io/shoe-shopping/static/js/main.b8fc92a0.chunk.js.map",
+    "runtime-main.js": "/github.io/shoe-shopping/static/js/runtime-main.b5fe5f06.js",
+    "runtime-main.js.map": "/github.io/shoe-shopping/static/js/runtime-main.b5fe5f06.js.map",
+    "static/js/2.8fdcab38.chunk.js": "/github.io/shoe-shopping/static/js/2.8fdcab38.chunk.js",
+    "static/js/2.8fdcab38.chunk.js.map": "/github.io/shoe-shopping/static/js/2.8fdcab38.chunk.js.map",
+    "static/js/3.5496e043.chunk.js": "/github.io/shoe-shopping/static/js/3.5496e043.chunk.js",
+    "static/js/3.5496e043.chunk.js.map": "/github.io/shoe-shopping/static/js/3.5496e043.chunk.js.map",
+    "index.html": "/github.io/shoe-shopping/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/github.io/shoe-shopping/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8fdcab38.chunk.js.LICENSE.txt": "/github.io/shoe-shopping/static/js/2.8fdcab38.chunk.js.LICENSE.txt",
+    "static/media/blogging.22927cb9.png": "/github.io/shoe-shopping/static/media/blogging.22927cb9.png",
+    "static/media/brandLogo.92a21866.png": "/github.io/shoe-shopping/static/media/brandLogo.92a21866.png",
+    "static/media/contact.475d5c66.png": "/github.io/shoe-shopping/static/media/contact.475d5c66.png",
+    "static/media/faq.2dbae8f1.png": "/github.io/shoe-shopping/static/media/faq.2dbae8f1.png",
+    "static/media/filter.041d6eca.png": "/github.io/shoe-shopping/static/media/filter.041d6eca.png",
+    "static/media/home.f17ce095.png": "/github.io/shoe-shopping/static/media/home.f17ce095.png",
+    "static/media/iconMenuM.38b696eb.png": "/github.io/shoe-shopping/static/media/iconMenuM.38b696eb.png",
+    "static/media/image1.eccb8fe7.png": "/github.io/shoe-shopping/static/media/image1.eccb8fe7.png",
+    "static/media/image2.ca0d6f86.jpg": "/github.io/shoe-shopping/static/media/image2.ca0d6f86.jpg",
+    "static/media/image3.cadb6268.png": "/github.io/shoe-shopping/static/media/image3.cadb6268.png",
+    "static/media/profile.d19fe13e.png": "/github.io/shoe-shopping/static/media/profile.d19fe13e.png",
+    "static/media/s1.16c43f44.png": "/github.io/shoe-shopping/static/media/s1.16c43f44.png",
+    "static/media/s2.5dbd1767.png": "/github.io/shoe-shopping/static/media/s2.5dbd1767.png",
+    "static/media/s3.e5aae696.png": "/github.io/shoe-shopping/static/media/s3.e5aae696.png",
+    "static/media/s4.8004ea2b.png": "/github.io/shoe-shopping/static/media/s4.8004ea2b.png",
+    "static/media/s5.d611e05b.png": "/github.io/shoe-shopping/static/media/s5.d611e05b.png",
+    "static/media/s6.89eee955.png": "/github.io/shoe-shopping/static/media/s6.89eee955.png",
+    "static/media/search.d1d5a937.png": "/github.io/shoe-shopping/static/media/search.d1d5a937.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5fe5f06.js",
+    "static/js/2.8fdcab38.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b8fc92a0.chunk.js"
+  ]
+}
