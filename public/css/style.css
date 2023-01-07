@@ -1,0 +1,32 @@
+﻿@import url(fontiran.css); /* لینک فایلی که وظیفه بارگذاری فونت ها را برعهده دارد */
+body {
+	font-family: IRANSans !important;
+	font-weight: bold;
+
+}
+h1, h2, h3, h4, h5, h6,input, textarea,button {
+	font-family: IRANSans!important;
+}
+h1{
+	font-weight: 900;
+}
+::-webkit-scrollbar {
+	width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px rgb(92, 62, 62); 
+	border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: rgb(22, 61, 105); 
+	border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #b30000; 
+  }
