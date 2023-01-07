@@ -6,12 +6,12 @@ import  Search  from '../screens/Search'
 export default function Index() {
     return (
 <Switch>
-    <Route exact path='/'>
+    <Route exact path='' >
         <Home />
     </Route>
     <Route exact path='/search'>
         <Search />
     </Route>
 </Switch>
-    )
+    ) 
 }
